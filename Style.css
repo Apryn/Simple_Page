@@ -1,8 +1,9 @@
-#logo{
-    display: inline;
+*{
+    
 }
+
 .menu{
-    display: inline;
+    display: inline-block;
     text-decoration : none;
     color: black;
 }
